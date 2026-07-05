@@ -20,7 +20,7 @@ Cold email generator for services company using groq, langchain and streamlit. I
 2. To get started, first install the dependencies using:
     ```commandline
      pip install -r requirements.txt
-    ```
+    ``` 
    
 3. Run the streamlit app:
    ```commandline
